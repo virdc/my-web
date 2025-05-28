@@ -4,4 +4,7 @@
  npm install o npm i (solo la primera vez)
 3- Ejecutar el proyecto en local:
  npm run start
-4-
+4- Empujar cambios:
+   git add .
+   git commit -m "descripcion del cambio"
+   git push
