@@ -1,0 +1,7 @@
+1- Clonar proyecto: 
+ git clone url
+2- Instalar dependencias:
+ npm install o npm i (solo la primera vez)
+3- Ejecutar el proyecto en local:
+ npm run start
+4-
