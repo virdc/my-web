@@ -10,7 +10,6 @@ function Footer() {
         <a href="https://github.com/virdc" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="https://www.linkedin.com/in/virginia-diaz-cappella/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
-      <p>A portfolio designed & built by <a href="https://github.com/virdc" target="_blank" rel="noreferrer">Virginia Diaz Cappella</a> with 💜</p>
     </footer>
   );
 }
